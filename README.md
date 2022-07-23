@@ -1,5 +1,5 @@
-Olá!! Eu sou a Regina 👋
-- 🔭 I’m currently studying front-end
+Hi!! I'm Regina 👋
+
 - 🌱 I’m currently learning HTML 5; CSS 3; JavaScript; Java
 
 <div align="center">
