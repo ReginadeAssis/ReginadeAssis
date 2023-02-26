@@ -12,7 +12,6 @@ Hi!! I'm Regina 👋
   <img src="https://img.icons8.com/ios/50/000000/javascript--v2.png"/>
   <img src="https://img.icons8.com/ios-filled/50/000000/html-5--v2.png"/>
   <img src="https://img.icons8.com/ios/50/000000/css3.png"/>
-  <img src="https://img.icons8.com/ios-glyphs/50/java-coffee-cup-logo.png"/>
 
 </div>
   
