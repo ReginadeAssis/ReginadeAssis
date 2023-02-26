@@ -1,6 +1,6 @@
 Hi!! I'm Regina 👋
 
-- 🌱 I’m currently learning HTML 5; CSS 3; JavaScript; Java
+- 🌱 I’m currently learning HTML 5; CSS 3; JavaScript
 
 <div align="center">
   <a href="https://github.com/ReginadeAssis">
