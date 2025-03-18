@@ -1,6 +1,6 @@
 Hi!
 
-- 🌱 I’m currently learning Power BI and Phyton
+- 🌱 I’m currently learning Power BI, SQL and Phyton
 
 <div align="center">
   <a href="https://github.com/ReginadeAssis">
