@@ -1,19 +1,11 @@
-Hi!! I'm Regina 👋
+Hi!
 
-- 🌱 I’m currently learning HTML 5; CSS 3; JavaScript ; Power BI
+- 🌱 I’m currently learning Power BI and Phyton
 
 <div align="center">
   <a href="https://github.com/ReginadeAssis">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ReginadeAssis&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReginadeAssis&layout=compact&langs_count=7&theme=merko"/>
-</div>
-  
-  <div style="display: inline_block"><br>
-  <img src="https://img.icons8.com/ios/50/000000/javascript--v2.png"/>
-  <img src="https://img.icons8.com/ios-filled/50/000000/html-5--v2.png"/>
-  <img src="https://img.icons8.com/ios/50/000000/css3.png"/>
-
-</div>
   
   ##
   
