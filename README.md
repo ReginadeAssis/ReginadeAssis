@@ -2,7 +2,7 @@
 
 Analista de Dados em formação  
 <br>
-Formada no tecnólogo em Análise e Desenvolvimento de Sistemas pelo Descomplica (2024), atualmente faço o curso de Cientista de Dados na EBAC (2025)  
+Tecnólogo em Análise e Desenvolvimento de Sistemas pelo Descomplica (2024), atualmente faço o curso de Cientista de Dados na EBAC (2025)  
 <br>
 Interesse em VBA, manipulação e análise de dados, além da otimização de processos no Excel.  
 <br>
