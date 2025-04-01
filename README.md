@@ -1,10 +1,11 @@
-Olá!
 
--Analista de Dados em formação  
+
+Analista de Dados em formação  
 <br>
--Formada no tecnólogo em Análise e Desenvolvimento de Sistemas pelo Descomplica (2024), atualmente faço o curso de Cientista de Dados na EBAC (2025)  
--Interesse em VBA, manipulação e análise de dados, além da otimização de processos no Excel.  
-
+Formada no tecnólogo em Análise e Desenvolvimento de Sistemas pelo Descomplica (2024), atualmente faço o curso de Cientista de Dados na EBAC (2025)  
+<br>
+Interesse em VBA, manipulação e análise de dados, além da otimização de processos no Excel.  
+<br>
 <div align="center">
   <a href="https://github.com/ReginadeAssis">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ReginadeAssis&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
