@@ -4,6 +4,7 @@ Analista de Dados
 <br>
 Tecnólogo em Análise e Desenvolvimento de Sistemas pelo Descomplica (2024), cursando Ciência de Dados na EBAC (2025). Tenho interesse especial no desenvolvimento de projetos de análise e ciência de dados, abrangendo limpeza, tratamento, exploração e visualização de dados. 
 <br>
+
 <div align="center">
   <a href="https://github.com/ReginadeAssis">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ReginadeAssis&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
