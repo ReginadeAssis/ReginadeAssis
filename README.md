@@ -1,10 +1,8 @@
 
 
-Analista de Dados em formação  
+Analista de Dados   
 <br>
-Tecnólogo em Análise e Desenvolvimento de Sistemas pelo Descomplica (2024), atualmente faço o curso de Cientista de Dados na EBAC (2025)  
-<br>
-Interesse especial em VBA(otimização de processos no Excel), manipulação e análise de dados.  
+Tecnólogo em Análise e Desenvolvimento de Sistemas pelo Descomplica (2024), cursando Ciência de Dados na EBAC (2025). Tenho interesse especial no desenvolvimento de projetos de análise e ciência de dados, abrangendo limpeza, tratamento, exploração e visualização de dados. 
 <br>
 <div align="center">
   <a href="https://github.com/ReginadeAssis">
